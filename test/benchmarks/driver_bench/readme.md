@@ -74,6 +74,7 @@ Whenever a new tag is defined it should be documented in the table below .
 |     `TAG.cursor`  | `'cursor-benchmark'`   | Tag marking a benchmark as being related to cursor performance                                                                       |
 |     `TAG.read`    | `'read-benchmark'`     | Tag marking a benchmark as being related to read performance                                                                         |
 |     `TAG.write`   | `'write-benchmark'`    | Tag marking a benchmark as being related to write performance                                                                        |
+|     `TAG.bson`    | `'bson-benchmark'`     | Tag marking a benchmark as being related to BSON performance                                                                         |
 
 ## Wishlist
 
