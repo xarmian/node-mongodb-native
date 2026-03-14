@@ -19,7 +19,9 @@ export const TAG = {
   /** Tag marking a benchmark as being related to write performance */
   write: 'write-benchmark',
   /** A tag for the cpu baseline task */
-  reference: 'reference'
+  reference: 'reference',
+  /** Tag marking a benchmark as being related to BSON performance */
+  bson: 'bson-benchmark'
 };
 
 /**
